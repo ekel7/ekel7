@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola! 👋
+
+Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo. Las tecnologías que manejo son React.js, Next.js, Redux, Sass, Express, Passport, GraphQL, Node, Typescript, SQL Server, Windows Server entre otras.
+
+LinkedIn: https://www.linkedin.com/in/it-emanuel-acosta
+
+Email: it.emanuel.acosta@gmail.com
+
 
 <!--
 **ekel7/ekel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
