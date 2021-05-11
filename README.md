@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo. Las tecnologías que manejo son React.js, Next.js, Redux, Sass, Express, Passport, GraphQL, Node, Typescript, SQL Server, Windows Server entre otras.
+Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo. Las tecnologías que manejo son React.js, Next.js, Redux, Sass, Express, Passport, GraphQL, Node, Typescript, PostgreSQL entre otras.
 
 LinkedIn: https://www.linkedin.com/in/it-emanuel-acosta
 
