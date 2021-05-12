@@ -5,7 +5,7 @@ Soy full stack developer, me encanta aprender nuevas tecnologías y metodología
 
 [![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekel7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekel7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 LinkedIn: https://www.linkedin.com/in/it-emanuel-acosta
