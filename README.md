@@ -1,14 +1,14 @@
-#### Hola! 👋
+##  Hola! 👋
 
 Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo.
 
-##Tecnologías
+### Tecnologías
 
-## Front-End
+#### Front-End
 
 JavaScript, TypeScript, React.js, Redux, Sass
 
-## Back-End
+#### Back-End
   Express
   Passport
   GraphQL 
