@@ -1,6 +1,20 @@
-### Hola! 👋
+#### Hola! 👋
 
-Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo. Las tecnologías que manejo son React.js, Next.js, Redux, Sass, Express, Passport, GraphQL, Node, Typescript, PostgreSQL entre otras.
+Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo.
+
+##Tecnologías
+
+## Front-End
+
+JavaScript, TypeScript, React.js, Redux, Sass
+
+## Back-End
+  Express
+  Passport
+  GraphQL 
+  Node
+  PostgreSQL 
+  
 
 
 [![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekel7&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
