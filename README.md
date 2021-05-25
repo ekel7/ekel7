@@ -21,7 +21,7 @@ Soy full stack developer, me encanta aprender nuevas tecnologías y metodología
 #### Back-End
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&color=ff69b4)
   Express
   Passport
   GraphQL 
