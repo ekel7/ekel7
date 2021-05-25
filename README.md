@@ -1,6 +1,6 @@
-##  Hola! 👋
+##  Hello! 👋
 
-Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo.
+I'm a full stack developer.
 
 ### Technologies
 
@@ -23,16 +23,11 @@ Soy full stack developer, me encanta aprender nuevas tecnologías y metodología
   ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&color=ff69b4)
   ![Passport](https://img.shields.io/badge/passport-%23404d59.svg?style=for-the-badge&logo=passport&logoColor=%2361DAFB)
-  Express
-  Passport
-  GraphQL 
-  Node
-  PostgreSQL 
   
  
 #### Databases
-  
-  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Sequelize ORM](https://img.shields.io/badge/Sequelize-316192?style=for-the-badge&logo=sequelize&logoColor=white)
 
 
 [![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekel7&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekel7&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
