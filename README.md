@@ -2,10 +2,16 @@
 
 Soy full stack developer, me encanta aprender nuevas tecnologías y metodologías de trabajo.
 
-### Tecnologías
+### Technologies
+
+#### Languages
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 #### Front-End
-
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 JavaScript, TypeScript, React.js, Redux, Sass
 
 #### Back-End
@@ -14,6 +20,10 @@ JavaScript, TypeScript, React.js, Redux, Sass
   GraphQL 
   Node
   PostgreSQL 
+  
+ 
+#### Databases
+  
   
 
 
