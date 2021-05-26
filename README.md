@@ -36,10 +36,10 @@ I'm a full stack developer.
   
   
 #### Tools
-![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-white?style=for-the-badge&logo=postman)
 
 
 [![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekel7&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekel7&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
