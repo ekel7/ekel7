@@ -3,7 +3,7 @@
 I'm a full stack developer.
 
 [![Gmail Badge](https://img.shields.io/badge/-it.emanuel.acosta@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:it.emanuel.acosta@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Emanuel-Acosta-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/it-emanuel-acosta/)
+[![Linkedin Badge](https://img.shields.io/badge/-Emanuel-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/it-emanuel-acosta/)
 
 
 ### Technologies
