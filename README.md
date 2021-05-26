@@ -2,6 +2,10 @@
 
 I'm a full stack developer.
 
+[![Gmail Badge](https://img.shields.io/badge/-diegohosilver@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:it.emanuel.acosta@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-dhsdesouza-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/it-emanuel-acosta/)
+
+
 ### Technologies
 
 #### Languages
@@ -28,6 +32,14 @@ I'm a full stack developer.
 #### Databases
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Sequelize ORM](https://img.shields.io/badge/Sequelize-316192?style=for-the-badge&logo=sequelize&logoColor=white)
+  
+  
+  
+#### Tools
+![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=postman)
 
 
 [![Ema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekel7&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekel7&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
