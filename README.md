@@ -1,6 +1,6 @@
 ##  Hello! 👋
 
-I'm a full stack developer.
+I'm a full stack developer. Currently looking for work and learning something new every day.
 
 [![Gmail Badge](https://img.shields.io/badge/-it.emanuel.acosta@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it.emanuel.acosta@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Emanuel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/it-emanuel-acosta/)
